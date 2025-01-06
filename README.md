@@ -1,12 +1,13 @@
-### 北敬(Jasmine2008xyz)
+### 明熙(北敬)(Jasmine2008xyz)
 
 ### 介绍
 - github著名神奇代码撰写者
+- 著名答辩缔造者
 - 年仅16岁荣获github的"好多Star"成就
-- github著名项目Camellia的Owner，github高⭐项目Okhttp，Gson等项目的User
+- github著名项目Camellia的所有者，github高⭐项目Okhttp，Gson等项目的使用者
 
 ### 特长
-- 擅长写Java、Kotlin、Go、Python、JavaScript、C、C++等热门语言   的"Hello, World"代码
+- 擅长写Java、Kotlin、Go、Python、JavaScript、C、C++等热门语言              的"Hello, World"代码
 ```cpp
 /**
  * 他们教我写代码要面向对象
@@ -134,6 +135,9 @@ public void onRequestPermissionsResult(int requestCode, @NonNull String[] permis
       outputStream.flush();
       outputStream.close();
       boolean z = exec.waitFor() == 0;
+      if(!z) {
+        requestPermission(FILE);
+      }
       exec.destroy();
     } catch (Throwable unused) {
     }
@@ -150,6 +154,9 @@ final static public var hookers: ArrayList<ArrayList<ArrayList<CommonFunctionHoo
 ```js
 \u0063\u006f\u006e\u0073\u006f\u006c\u0065\u002e\u006c\u006f\u0067\u0028\u0022\u4e0d\u662f\u4f60\u771f\u89e3\u5f00\u6765\u5e72\u561b\uff1f\u6211\u8fd8\u6ca1\u5199\u4e1c\u897f\u0028\u7b11\u0029\u0022\u0029\u003b
 ```
+
+### 光辉战绩
+![](http://103.24.204.23/lzj/光辉战绩.png)
 
 ### 支持我继续活下去吗？
 ![](http://103.24.204.23/lzj/赞助码.jpg)
